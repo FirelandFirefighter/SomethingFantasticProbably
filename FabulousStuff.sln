@@ -5,20 +5,6 @@ VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabulousStuff", "FabulousStuff\FabulousStuff.csproj", "{43977F0C-26FB-41A1-9422-B9814DACA950}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Libraries", "2. Libraries", "{39DDB6E4-4630-4172-B20A-DC38B5D5BE73}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. SolutionItems", "1. SolutionItems", "{6D23BC29-5BED-4240-AFD5-252F401DEF19}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Modules", "3. Modules", "{5EE6041B-A1B4-4315-BD06-0776F242E2CE}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Presentations", "4. Presentations", "{F2B323E7-6DD4-4753-8145-8C7438D0C048}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Services", "3. Services", "{F1582E67-D08A-4423-9646-18B1AC0E37E3}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Data", "2. Data", "{648BBD03-F74A-4C99-A949-49AE84E26614}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Core", "1. Core", "{128213F3-4962-4679-A55D-61536E282595}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,12 +18,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{43977F0C-26FB-41A1-9422-B9814DACA950} = {5EE6041B-A1B4-4315-BD06-0776F242E2CE}
-		{F1582E67-D08A-4423-9646-18B1AC0E37E3} = {39DDB6E4-4630-4172-B20A-DC38B5D5BE73}
-		{648BBD03-F74A-4C99-A949-49AE84E26614} = {39DDB6E4-4630-4172-B20A-DC38B5D5BE73}
-		{128213F3-4962-4679-A55D-61536E282595} = {39DDB6E4-4630-4172-B20A-DC38B5D5BE73}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9ED94ABA-626E-47A3-922F-9F54D8BFE04F}
